@@ -1,5 +1,5 @@
 /**
-* ClassName by Ryan Matsikas. Feb 10, 2006
+* RegexUtils by Ryan Matsikas. Feb 10, 2006
 *
 *
 * Copyright (c) 2006 Ryan Matsikas
