@@ -324,7 +324,7 @@ package com.chewtinfoil.utils {
 		 *	@tiptext
 		 */
 		public static function endsWith(p_string:String, p_end:String):Boolean {
-			return p_string.indexOf(p_end) == p_string.length - p_end.length;
+			return p_string.length > p_end.length && p_string.indexOf(p_end) == (p_string.length - p_end.length);
 		}
 		
 		/**
