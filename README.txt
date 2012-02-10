@@ -1,1 +1,1 @@
-This is a sample README.
+This is home to some of my reusable classes, mostly static stills. Enjoy and feedback is greatly appreciated.
