@@ -1,5 +1,5 @@
 /**
-* RegexUtils by Ryan Matsikas. Feb 10, 2006
+* RegexUtil by Ryan Matsikas. Feb 10, 2006
 *
 *
 * Copyright (c) 2006 Ryan Matsikas
@@ -25,6 +25,8 @@
 * FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR
 * OTHER DEALINGS IN THE SOFTWARE.
 **/
+
+
 package com.chewtinfoil.utils {
 	
 	public class RegexUtils {
