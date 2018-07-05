@@ -724,7 +724,6 @@ package com.chewtinfoil.utils {
 				default:
 					return p_char;
 			}
-		}
-		
+		}		
 	}
 }
